@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: red;">Advanced DevOps project :globe_with_meridians::hammer_and_wrench:</h1>
+  <h1 style="color: red;">Advanced DevOps project (Homak Patel) :globe_with_meridians::hammer_and_wrench:</h1>
 </div> 
 
 
