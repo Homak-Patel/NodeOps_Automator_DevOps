@@ -3,7 +3,7 @@
 </div> 
 
 
-# 🚀 DevOps Project
+# DevOps Project 
 
 Welcome to my DevOps project repository! this project automates AWS service and K8S resources provisioning via Terraform, Jenkins orchestrates three pipelines, the first is to automate the Provisioning of the infrastructure, and the second is to dockerize the Node.js app and push it to private repo ECR and then trigger the third pipeline (CD pipeline), third pipeline to update the image name in Helm chart values.yaml. The Node.js app effortlessly communicates with RDS and the APP stores the IP when you hit a certain endpoint and lists all the IPs stored when you hit  another endpoint, ArgoCD adds the final touch, enabling continuous deployment with GitOps principles.
 
@@ -116,6 +116,6 @@ Welcome to my DevOps project repository! this project automates AWS service and 
 ![yallla22](https://github.com/AbdelrhmanAli123/advanced-devops-task/assets/133269614/b1687a26-9740-4fa7-8d91-46bf0d2712ee)
 
 
-## 🎉 Conclusion
+## Conclusion
 
 This project demonstrates a complete DevOps pipeline for provisioning infrastructure, building and pushing Docker images and deploying applications on AWS EKS. Feel free to explore and adapt the code to fit your specific requirements.
